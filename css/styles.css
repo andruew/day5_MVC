@@ -1,0 +1,22 @@
+html {
+    font-family: Calibri;
+}
+
+.product {
+    border:1px solid grey;
+    margin-bottom:20px;
+}
+
+.product .title {
+    font-weight:bolder;
+}
+
+#menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding:0 10px;
+}
+
+#menu a:hover {
+    color:grey;
+}
