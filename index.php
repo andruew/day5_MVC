@@ -10,7 +10,7 @@ $controller = 'goods';
 if( isset( $_GET['controller'] ) ) {
     $controller = $_GET['controller'];
 }
-
+/* test commit */
 $action = 'displayList';
 if( isset( $_GET['action']) ) {
     $action = $_GET['action'];
